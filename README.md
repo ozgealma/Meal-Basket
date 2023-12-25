@@ -48,6 +48,4 @@ A comprehensive food ordering app, showcasing a vast variety of dishes, allowing
   </table>
 </div>
 
-## Video
 
-[![MealBasket](https://img.youtube.com/vi/JHBzCJKZQRA/0.jpg)](https://www.youtube.com/watch?v=JHBzCJKZQRA)
