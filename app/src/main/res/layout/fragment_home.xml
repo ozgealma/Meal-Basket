@@ -7,19 +7,6 @@
     tools:context=".view.HomeFragment"
     android:id="@+id/root_home">
 
-    <TextView
-        android:id="@+id/tvMeals"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"
-        android:layout_marginStart="24dp"
-        android:text="All meals"
-        android:fontFamily="@font/google_sans_bold"
-        android:textColor="@color/black"
-        android:textSize="24sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvMeals"
         android:layout_width="match_parent"
@@ -56,5 +43,19 @@
         android:src="@drawable/error"
         android:visibility="gone"
         />
+
+    <TextView
+        android:id="@+id/tvMeals"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/permanent_marker"
+        android:shadowRadius="7"
+        android:text="All meals"
+        android:textColor="@color/accent"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -13,6 +13,7 @@
         android:layout_height="60dp"
         app:title=" "
         app:titleTextColor="@color/white"
+        android:backgroundTint="@color/accent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -23,12 +24,13 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Favorite"
-            android:textSize="28sp"
             android:layout_gravity="center"
-            android:textColor="@color/black"
-            android:fontFamily="@font/google_sans_bold"
-            />
+            android:fontFamily="@font/permanent_marker"
+            android:text="Favorite"
+            android:textColor="@color/white"
+            android:textSize="28sp"
+            tools:layout_editor_absoluteX="150dp"
+            tools:layout_editor_absoluteY="12dp" />
 
     </androidx.appcompat.widget.Toolbar>
 

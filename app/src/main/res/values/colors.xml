@@ -3,11 +3,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="red">#E60623</color>
+    <color name="red">#113273</color>
     <color name="background">#FCFCFC</color>
     <color name="accent">#f52c56</color>
     <color name="green">#557A46</color>
     <color name="grey1">#D8D8D8</color>
     <color name="grey2">#9C9DA5</color>
+    <color name="grey3">#B83260</color>
 
 </resources>

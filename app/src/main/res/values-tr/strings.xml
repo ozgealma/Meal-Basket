@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YemekSepeti</string>
+    <!-- TODO: Bu yer tutucu metni kaldırın veya değiştirin -->
+    <string name="hello_blank_fragment">Merhaba boş parça</string>
+    <string name="order_address">Sipariş Adresi</string>
+    <string name="adress_name">Adres Adı</string>
+    <string name="credit_cart_info">Kredi Kartı Bilgisi</string>
+    <string name="card_owner">Kart Sahibi</string>
+    <string name="card_number">Kart Numarası</string>
+    <string name="month">Ay</string>
+    <string name="year">Yıl</string>
+    <string name="cvv">CVV</string>
+    <string name="confirm_payment">Ödemeyi Onayla</string>
+    <string name="your_order_has_been_accepted">Siparişiniz alındı!</string>
+    <string name="your_items_has_been_placed_and_is_on_it_s_way_to_being_processed">Ürünleriniz yerleştirildi ve işlenmeye başlandı</string>
+    <string name="continue_shopping">Alışverişe Devam Et</string>
+</resources>
