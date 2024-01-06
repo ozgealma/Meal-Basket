@@ -26,7 +26,7 @@
             android:fontFamily="@font/permanent_marker"
             android:text="Payment"
             android:textColor="@color/white"
-            android:textSize="24sp"
+            android:textSize="35sp"
             tools:layout_editor_absoluteX="155dp"
             tools:layout_editor_absoluteY="10dp" />
     </androidx.appcompat.widget.Toolbar>
@@ -49,7 +49,7 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/card_adress_layout"
-        android:layout_width="match_parent"
+        android:layout_width="1185dp"
         android:layout_height="200dp"
         android:layout_margin="10dp"
         android:layout_marginTop="25dp"
@@ -168,7 +168,7 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/card_layout"
-        android:layout_width="match_parent"
+        android:layout_width="1185dp"
         android:layout_height="200dp"
         android:layout_margin="10dp"
         android:layout_marginTop="25dp"
@@ -384,14 +384,14 @@
 
     <Button
         android:id="@+id/button_payment"
-        android:layout_width="match_parent"
+        android:layout_width="400dp"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="45dp"
-        android:layout_marginBottom="20dp"
+        android:layout_marginBottom="45dp"
         android:text="@string/confirm_payment"
         android:backgroundTint="@color/accent"
         android:fontFamily="@font/google_sans_bold"
-        android:textSize="18sp"
+        android:textSize="23sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
