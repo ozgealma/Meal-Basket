@@ -30,7 +30,7 @@ class CartFragment : Fragment(R.layout.fragment_cart) {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        // CartAdapter'ı oluşturun ve bağlamaya ayarlayın.
+        // CartAdapter'ı oluşturun ve bağlamayı ayarlayın.
         adapter = CartAdapter(viewModel)
         binding.recyclerView.adapter = adapter
 
