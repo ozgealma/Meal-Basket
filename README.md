@@ -17,6 +17,16 @@ A comprehensive food ordering app, showcasing a vast variety of dishes, allowing
  ## Screens
 <div align="center">
   <table>
+   <tr>
+      <td style="border: 1px solid #ccc; text-align: center;">
+        <div style="border: 1px solid #ccc; margin-bottom: 5px; background-color: #f0f0f0; padding: 5px;">Entry</div>
+        <img src="https://i.ibb.co/x89p311/Entry.png" width="200"/>
+      </td>
+      <td style="border: 1px solid #ccc; text-align: center;">
+        <div style="border: 1px solid #ccc; margin-bottom: 5px; background-color: #f0f0f0; padding: 5px;">SplashScreen</div>
+        <img src="https://i.ibb.co/vHDTMMX/Splash-Screen.png" width="200"/>
+      </td>
+    </tr>
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;">
         <div style="border: 1px solid #ccc; margin-bottom: 5px; background-color: #f0f0f0; padding: 5px;">Home</div>
