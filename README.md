@@ -38,11 +38,11 @@ A comprehensive food ordering app, showcasing a vast variety of dishes, allowing
       </td>
       <td style="border: 1px solid #ccc; text-align: center;">
         <div style="border: 1px solid #ccc; margin-bottom: 5px; background-color: #f0f0f0; padding: 5px;">Payment</div>
-        <img src="https://i.ibb.co/jbHLWWV/Payment-Fragment.png" width="200"/>
+        <img src="https://i.ibb.co/tPY1vgL/Payment-Fragment.png" width="200"/>
       </td>
       <td style="border: 1px solid #ccc; text-align: center;">
         <div style="border: 1px solid #ccc; margin-bottom: 5px; background-color: #f0f0f0; padding: 5px;">Success</div>
-        <img src="https://i.ibb.co/XkbbZpY/Success-Fragment.png" width="200"/>
+        <img src="https://i.ibb.co/v4cJtYC/Success-Fragment.png" width="200"/>
       </td>
     </tr>
   </table>
