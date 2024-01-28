@@ -20,7 +20,7 @@ A comprehensive food ordering app, showcasing a vast variety of dishes, allowing
     <tr>
       <td style="border: 1px solid #ccc; text-align: center;">
         <div style="border: 1px solid #ccc; margin-bottom: 5px; background-color: #f0f0f0; padding: 5px;">Home</div>
-        <img src="https://ibb.co/MkqCLrV/Home-Fragment" width="200"/>
+        <img src="https://ibb.co/MkqCLrV/Home-Fragment.jpg" width="200"/>
       </td>
       <td style="border: 1px solid #ccc; text-align: center;">
         <div style="border: 1px solid #ccc; margin-bottom: 5px; background-color: #f0f0f0; padding: 5px;">Details</div>
